@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook Tech One",
+    "preco": 4299.9,
+    "categoria": "notebook",
+    "status": "disponivel",
+    "estoque": 12,
+    "imagem": "/images/notebook-one.svg",
+    "descricao": "Notebook para estudos e trabalho com tela ampla, 16 GB de memória e SSD de 512 GB."
+  },
+  {
+    "id": 2,
+    "nome": "Smartphone Tech Go",
+    "preco": 1899.9,
+    "categoria": "smartphone",
+    "status": "baixo-estoque",
+    "estoque": 3,
+    "imagem": "/images/smartphone-go.svg",
+    "descricao": "Smartphone com câmera dupla, tela de alta resolução e bateria para o dia todo."
+  },
+  {
+    "id": 3,
+    "nome": "Teclado Tech Keys",
+    "preco": 349.9,
+    "categoria": "acessorio",
+    "status": "disponivel",
+    "estoque": 18,
+    "imagem": "/images/teclado-keys.svg",
+    "descricao": "Teclado mecânico compacto com conexão USB-C e iluminação ajustável."
+  },
+  {
+    "id": 4,
+    "nome": "Notebook Tech Air",
+    "preco": 5199.0,
+    "categoria": "notebook",
+    "status": "baixo-estoque",
+    "estoque": 2,
+    "imagem": "/images/notebook-air.svg",
+    "descricao": "Notebook leve com tela antirreflexo e bateria de longa duração."
+  },
+  {
+    "id": 5,
+    "nome": "Fone Tech Sound",
+    "preco": 499.9,
+    "categoria": "acessorio",
+    "status": "indisponivel",
+    "estoque": 0,
+    "imagem": "/images/fone-sound.svg",
+    "descricao": "Fone sem fio com microfone integrado e estojo de carregamento."
+  },
+  {
+    "id": 6,
+    "nome": "Smartphone Tech Max",
+    "preco": 3299.9,
+    "categoria": "smartphone",
+    "status": "disponivel",
+    "estoque": 9,
+    "imagem": "/images/smartphone-max.svg",
+    "descricao": "Smartphone com armazenamento amplo, câmera de alta definição e carregamento rápido."
+  }
+]
